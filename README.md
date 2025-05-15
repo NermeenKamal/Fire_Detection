@@ -90,7 +90,8 @@ The notebook provides:
 ## 🤝 Contributors
 
 * 👤 Nermeen Kamal – Backend, Computer Vision, Integration
-* 
+* 👤 Alaa Hussein - AI, Computer Vision, Integration
+
 ---
 
 ## 📄 License
